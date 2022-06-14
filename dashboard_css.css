@@ -4,9 +4,8 @@
 }
 .menubar{
     left: 0;
-    width: 42px;
-    height: 100%;
-    position: fixed;
+    width: 35px;
+    height: 580px;
     top: 0;
     left: 0;
     overflow-x: hidden;
@@ -27,3 +26,15 @@
     color: darkslategrey;
     padding: 10px;
 }
+.menubar i{
+    font-size: 15px;
+}
+
+.top_navbar {
+  overflow: hidden;
+  background-color: #87ceeb;
+}
+
+
+
+
